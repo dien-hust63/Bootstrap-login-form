@@ -1,0 +1,25 @@
+.bg{
+    background: url('../images/background.jpg') no-repeat; width: 100%; height: 100vh;
+}
+.form-container{
+    border:0px solid #fff;
+    padding: 20px 60px;
+    justify-content: center;
+    -webkit-box-shadow: -1px 3px 26px 2px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 3px 26px 2px rgba(0,0,0,0.75);
+    box-shadow: -1px 3px 26px 2px rgba(0,0,0,0.75);
+}
+*{
+    color:#fff
+}
+
+.form-container h1{
+    font-family: 'Kaushan Script', cursive;
+}
+#register{
+    color:cyan;
+}
+#forgot-password{
+    float:right;
+    color:cyan;
+}
